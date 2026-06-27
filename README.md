@@ -1,2 +1,3 @@
 # Ascendancy KKManager
-Graphical User Interface improvements for KKManager, please refer to the original repository for the original readme.
+- Graphical User Interface improvements for KKManager, please refer to the original repository for the original readme.
+- Project is in progress, expect zero changes until further commits.
